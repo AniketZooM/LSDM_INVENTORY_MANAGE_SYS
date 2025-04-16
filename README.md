@@ -1,1 +1,1 @@
-# LSDM_inventory_mng_sys
+# LSDM_INVENTORY_MANAGE_SYS
